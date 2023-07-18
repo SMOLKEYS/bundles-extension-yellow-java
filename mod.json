@@ -1,0 +1,10 @@
+{
+"name": "bundles-tmp",
+"displayName": "Bundles (TEMPLATE)",
+"author": "SMOLKEYS",
+"description": "TEMPLATE MOD",
+"version": "0",
+"minGameVersion": "126",
+"hidden": true,
+"dependencies": []
+}
